@@ -84,7 +84,6 @@ const inputOptions = {
   manualChunks,
   onwarn,
   preserveModules,
-  strictDeprecations,
 
   // danger zone
   acorn,
